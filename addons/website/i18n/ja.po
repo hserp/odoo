@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 12.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-09 10:31+0000\n"
+"POT-Creation-Date: 2019-03-29 10:08+0000\n"
 "PO-Revision-Date: 2018-08-24 09:33+0000\n"
 "Last-Translator: Yoshi Tashiro <tashiro@roomsfor.hk>, 2019\n"
 "Language-Team: Japanese (https://www.transifex.com/odoo/teams/41243/ja/)\n"
@@ -30,7 +30,7 @@ msgstr ""
 #: code:addons/website/static/src/js/editor/snippets.options.js:1068
 #, python-format
 msgid " Add Images"
-msgstr ""
+msgstr "画像追加"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.bs_debug_page_ir_ui_view
@@ -81,6 +81,11 @@ msgid "' did not match any pages."
 msgstr ""
 
 #. module: website
+#: model_terms:ir.ui.view,arch_db:website.500
+msgid "(!!! This view will be removed )"
+msgstr ""
+
+#. module: website
 #. openerp-web
 #: code:addons/website/static/src/xml/website.pageProperties.xml:33
 #, python-format
@@ -118,17 +123,17 @@ msgstr ""
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.default_csv
 msgid "1,2,3"
-msgstr ""
+msgstr "1,2,3"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippet_options
 msgid "1/5"
-msgstr ""
+msgstr "1/5"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippet_options
 msgid "100%"
-msgstr ""
+msgstr "100%"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippet_options
@@ -154,7 +159,7 @@ msgstr ""
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippet_options
 msgid "2/5"
-msgstr ""
+msgstr "2/5"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_comparisons
@@ -164,7 +169,7 @@ msgstr "24x7 toll-free support"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippet_options
 msgid "25%"
-msgstr ""
+msgstr "25%"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippet_options
@@ -174,7 +179,7 @@ msgstr "2s"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippet_options
 msgid "3/5"
-msgstr ""
+msgstr "3/5"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippet_options
@@ -184,7 +189,7 @@ msgstr "3s"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippet_options
 msgid "4/5"
-msgstr ""
+msgstr "4/5"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.403
@@ -199,12 +204,12 @@ msgstr "404: ページが見つかりません。"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippet_options
 msgid "5/5"
-msgstr ""
+msgstr "5/5"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippet_options
 msgid "50%"
-msgstr ""
+msgstr "50%"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippet_options
@@ -214,7 +219,7 @@ msgstr "5s"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippet_options
 msgid "75%"
-msgstr ""
+msgstr "75%"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_call_to_action
@@ -546,7 +551,7 @@ msgstr ""
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-tasks\"/>Progress Bar"
-msgstr ""
+msgstr "<i class=\"fa fa-tasks\"/>進捗バー"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippet_options
@@ -1968,7 +1973,7 @@ msgstr ""
 #. module: website
 #: selection:website,auth_signup_uninvited:0
 msgid "Free sign up"
-msgstr ""
+msgstr "自由にアインアップ"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.theme_customize
@@ -2576,7 +2581,7 @@ msgstr "昨年"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.theme_customize
 msgid "Layout"
-msgstr ""
+msgstr "レイアウト"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_text_image
@@ -2699,7 +2704,7 @@ msgstr "ウェブサイトのページを管理"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.res_config_settings_view_form
 msgid "Manage multiple websites"
-msgstr ""
+msgstr "複数ウェブサイトを管理"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.one_page_line
@@ -2893,7 +2898,7 @@ msgstr "新しいブログ投稿"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.user_navbar
 msgid "New Channel"
-msgstr ""
+msgstr "新規チャネル"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.user_navbar
@@ -3064,7 +3069,7 @@ msgstr "ウェブサイト"
 #. module: website
 #: selection:website,auth_signup_uninvited:0
 msgid "On invitation"
-msgstr ""
+msgstr "招待が必要"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.res_config_settings_view_form
