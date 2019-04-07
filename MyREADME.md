@@ -27,3 +27,7 @@ export LANG=en_US.UTF-8
 **below is in test mode**
 
 ./odoo-bin --database=odoo -i base --addons-path=addons --db_user=shuai --db_password=shuai --db_port=8432 -l zh_CN --dev all -s -c odoorc 
+
+**PyCharm Configure
+
+/Users/shuai/github/hserp/odoo.bak/odoo-bin -c odoo.conf --dev=all
